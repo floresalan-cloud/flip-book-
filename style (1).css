@@ -11,7 +11,7 @@ body{
     height: 100vh;
     width: 100vw;
     overflow: hidden;
-    background: #D92938;
+    background: #1a30bb;
 }
 .flipbook{
     width: 1000px;
@@ -30,7 +30,7 @@ body{
     font-size: 14px;
 }
 .flipbook .page{
-    background: white;
+    background: rgb(242, 198, 22);
     display: flex;
     flex-direction: column;
     justify-content: center;
